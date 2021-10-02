@@ -1,2 +1,2 @@
-*.csharp linguist-detectable=false
+*.cs linguist-detectable=false
 *.html linguist-detectable=false
